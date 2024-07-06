@@ -1,0 +1,48 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+html{
+    border: 2px double gray;
+    height: 100%;
+}
+
+.Center{
+  
+    width: 10%;
+    margin: 0% auto;
+    
+}
+.p-l{
+    padding-left: 55px;
+    color: grey;
+}
+.Nav,a,li{
+display: flex;
+text-decoration: none;
+gap: 150px;
+}
+
+a{
+    padding-left: 70px;
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.Red{
+    color: red;
+}
+.font{
+    color: grey;
+    font-weight: lighter;
+}
+img{
+    padding-left: ;
+    height: 300px;
+    width: 452px;
+}
+.text-jus{
+    text-align: center;
+    font-weight: bold;
+}
